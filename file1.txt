@@ -1,1 +1,1 @@
-Modified Text in my local reposoitory 123.
+Solved Conflict text in my local and remote repository.
